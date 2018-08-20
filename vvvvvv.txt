@@ -1,38 +1,74 @@
 what is dependency injection?
+a:
 what is bean autowiring ?
+a:
 which impln of application context give us control to shut down container?
+ans--configurable application context 
 code snippet ? which of d following is correct snippet for injecting values using setter and constructor?
-which of d foll annotation is used for lifecyle
+a:
+which of d foll annotation is used for lifecyle{predestroy/destroy()} 
+a--to ensure gracefull retirement of bean.
 in spring appln context, d singleton bean are lazy or eager?
+a:
 what is dispatcher servlet
+a:
 what is role of context loader listener?
+a:it creates and starts appln context .
 code snippet for view resolver in spring mvc ?
+a:
 does hibernate support dependency injection?
-code snippet for instation session in hibernate ?/// default location of hibernate.cfg.xml {a:classpath}
+a:no
+code snippet for instation session in hibernate ?///
+a:
+default location of hibernate.cfg.xml
+{a:classpath}
 which state of object ensures  synchn with databse object ?
+a:persistent
 which of foll converts object from persient to transient ?
+a:the save()
 the jsp lifecycle method , which of the foll directives is used for import in jsp?
+a:
 which of the foll is not implicit object?
+a:
 predict d behaviour of code snippet ?
+a;
 diff bw get paramter and get attribute method?
+a:
 which of the foll is not directive in jsp?
+a:
 which of the foll container services allows to lookup for resource?
+a:
  which of the foll is correct annotation for composite key in hibernate?
+ a:
 which of the foll is fetch strategies in hibernate ?{check box}
+a:
 which strategy fires only single query to get parent and child record?
-which xml attribute is resp to save update parent child graph in database{cascade}
+a:
+which xml attribute is resp to save update parent child graph in database
+{a:cascade}
 which of the foll default mode of loading child element in hibernate?
+A:
 code snippet in hib cfg file? what is role of dialect in dis code ?
 {mapping entry in cfg file}
+a:
 at what tym servlet init method is called?
+a:
 possible ways in redirecting code frm 1 place to another
+a:
 string param =get call x.----- in param ? what type of objectr shud be?
+a:
 question on scope servlet n jsp ?
+a:
 string cfg can be written in{select all dat apply}
+a:
 which of the foll is not a stereotype of component?
+a:
 which of the foll makes a method transaction aware?
+a:
 which of the foll is false abt lazy loading ?
+a:
 which of the foll is directive entry for making an error page in jsp?
+a:--the servlet needs to forward the request to specific error page URL.the exception is passed along as an attribute name"javax.servlet.jsp.jspException.
 a servlet is a child of ---------?
 which of d foll is correct annotation for servlet ?
 which http method ends sesssion?
