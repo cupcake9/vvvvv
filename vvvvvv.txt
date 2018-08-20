@@ -1,0 +1,57 @@
+what is dependency injection?
+what is bean autowiring ?
+which impln of application context give us control to shut down container?
+code snippet ? which of d following is correct snippet for injecting values using setter and constructor?
+which of d foll annotation is used for lifecyle
+in spring appln context, d singleton bean are lazy or eager?
+what is dispatcher servlet
+what is role of context loader listener?
+code snippet for view resolver in spring mvc ?
+does hibernate support dependency injection?
+code snippet for instation session in hibernate ?/// default location of hibernate.cfg.xml {a:classpath}
+which state of object ensures  synchn with databse object ?
+which of foll converts object from persient to transient ?
+the jsp lifecycle method , which of the foll directives is used for import in jsp?
+which of the foll is not implicit object?
+predict d behaviour of code snippet ?
+diff bw get paramter and get attribute method?
+which of the foll is not directive in jsp?
+which of the foll container services allows to lookup for resource?
+ which of the foll is correct annotation for composite key in hibernate?
+which of the foll is fetch strategies in hibernate ?{check box}
+which strategy fires only single query to get parent and child record?
+which xml attribute is resp to save update parent child graph in database{cascade}
+which of the foll default mode of loading child element in hibernate?
+code snippet in hib cfg file? what is role of dialect in dis code ?
+{mapping entry in cfg file}
+at what tym servlet init method is called?
+possible ways in redirecting code frm 1 place to another
+string param =get call x.----- in param ? what type of objectr shud be?
+question on scope servlet n jsp ?
+string cfg can be written in{select all dat apply}
+which of the foll is not a stereotype of component?
+which of the foll makes a method transaction aware?
+which of the foll is false abt lazy loading ?
+which of the foll is directive entry for making an error page in jsp?
+a servlet is a child of ---------?
+which of d foll is correct annotation for servlet ?
+which http method ends sesssion?
+read d code snippet , identify it as native sql or hql query?
+which of d foll is correct annotation for request mapping spring mvc?
+what autowire annotation does ?
+which of the foll is mandatory annotation for making hibernate entity?
+ which of the foll is correct syntax for importing external javascript?
+code snippet without closing field tag?
+var and  function in javascript are 
+which of the foll makes the cursor implictly
+which of the foll parameter type acts as an constant
+query with nested group func ? is it a valid sql query ?
+which of the foll statement helps in invoking db stored procedure in jdbc
+there is join query code snippet to identify the type of join /
+code snippet on cursor {try to print row count b4 fetch and after fetch }
+which of the foll is synchronised collection?
+what can be done for sorting custom objects in tree set ?
+
+
+
+
